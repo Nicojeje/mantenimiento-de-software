@@ -1,9 +1,9 @@
 # TP: Sistema de Archivos en Linux
 
 * **Materia:** Mantenimiento de Software
-* **Estudiante:** Nombre y Apellido
+* **Estudiante:** Aldo Nicolàs Cañizarez
 * **Fecha de Entrega:** 2026
-* **Profesor:** Nombre del Profesor
+* **Profesor:** Gabriel Artaza
 
 ---
 
